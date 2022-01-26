@@ -24,6 +24,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
 - 📫 To reach me: bardulalomtawsyat@gmail.com
 
+<img src="https://userpic.codeforces.org/2128064/title/e2370859c30e217f.jpg">
 
 
 
