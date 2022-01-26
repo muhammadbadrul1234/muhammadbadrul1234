@@ -27,7 +27,9 @@
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=MDBadrulAlomTawsyat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
 
-![Badrul's Codeforces activity graph](https://codeforces.com/profile/Hellobadrul)
+![Badrul's Codeforces activity graph]( 
+(https://user-images.githubusercontent.com/97453992/151174569-f10341f0-1111-4179-b6d2-54cde8fa0ea1.png)
+)
 
 
 
