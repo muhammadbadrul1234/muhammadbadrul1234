@@ -3,7 +3,7 @@
 
 ### My Github Stats
 ![Badrul's Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MDBadrulAlomTawsyat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > <p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDBadrulAlomTawsyat&show_icons=true&theme=light&locale=en" alt="iftekhar-ifat" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MDBadrulAlomTawsyat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDBadrulAlomTawsyat&show_icons=true&theme=light&locale=en" alt="MDBadrulAlomTawsyat" /></p>
   
 ### My Skills
 
