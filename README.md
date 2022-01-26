@@ -3,12 +3,8 @@
 
 ### My Github Stats
 ![Badrul's Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MDBadrulAlomTawsyat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDBadrulAlomTawsyat&show_icons=true&theme=dark&locale=en" alt="iftekhar-ifat" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MDBadrulAlomTawsyat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <p><img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDBadrulAlomTawsyat&show_icons=true&theme=light&locale=en" alt="iftekhar-ifat" /></p>
   
- 
-![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=MDBadrulAlomTawsyat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=true)
-
 ### My Skills
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.illustrator.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="photoshop" width="40" height="40"/> </a></p>
@@ -29,7 +25,8 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
 - 📫 To reach me: bardulalomtawsyat@gmail.com
 
-<img src="https://userpic.codeforces.org/2128064/title/e2370859c30e217f.jpg">
+![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=MDBadrulAlomTawsyat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=true)
+
 
 
 
