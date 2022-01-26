@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badrul Alom Tawsyat</h1>
 <h3 align="center">Third year student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
+
 ### My Github Stats
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshafkatulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshafkatulhassan" /> </p>
 <p align="right"> <<img src="https://github-readme-stats.vercel.app/api?username=MDBadrulAlomTawsyat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 ### My Stacks
 
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
