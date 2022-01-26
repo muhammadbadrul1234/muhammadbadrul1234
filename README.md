@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badrul Alom Tawsyat</h1>
-<h3 align="center">Third year student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
+<h3 align="center">Undergraduate Student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
 ![Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
