@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Badrul+Alom;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-<h3 align="center">Undergraduate Student, B.Sc.(hons.) on Computer Science & Engineering, ![Leading University](https://lus.ac.bd) , Sylhet, Bangladesh.</h3>
+<h3 align="center">Undergraduate Student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
 ![Badrul's Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
@@ -28,6 +28,7 @@
 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
 - 📫 To reach me: bardulalomtawsyat@gmail.com
+- ![Leading University](https://lus.ac.bd) 
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=MDBadrulAlomTawsyat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
 
