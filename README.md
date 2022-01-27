@@ -28,7 +28,7 @@
 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
 - 📫 To reach me: bardulalomtawsyat@gmail.com
-- ![Leading University](https://lus.ac.bd) 
+ 
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=MDBadrulAlomTawsyat&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
 
