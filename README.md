@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Badrul+Alom;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-
-<h2 align="center">Hi 👋, I'm Muhammad Badrul Alom Tawsyat</h2>
 <h3 align="center">Undergraduate Student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
