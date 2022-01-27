@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Badrul Alom Tawsyat</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Badrul+Alom+Tawsyat....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h2 align="center">Hi 👋, I'm Muhammad Badrul Alom Tawsyat</h2>
 <h3 align="center">Undergraduate Student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
