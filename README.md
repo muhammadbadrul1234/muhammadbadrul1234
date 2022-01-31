@@ -32,6 +32,9 @@
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=BadrulAlom&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammedbadrul1234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/muhammedbadrul1234?trk=profile-badge">Muhammad Badrul</a></div>
+              
+
 
 
 
