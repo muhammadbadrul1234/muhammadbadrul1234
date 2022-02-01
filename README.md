@@ -7,6 +7,8 @@
 
 ### My Github Stats
 ![Badrul's Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
+<a href="https://github.com/BadrulAlom?tab=followers"><img src="https://img.shields.io/github/followers/BadrulAlom?label=Followers&style=social" alt="GitHub Badge"></a>
+  </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BadrulAlom&count_private=true&show_icons=true&include_all_commits=true"  alt="MD Tawsyat"></p>
   
 ### My Skills
