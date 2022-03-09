@@ -9,6 +9,7 @@
 ![Badrul's Profile views](https://gpvc.arturio.dev/MDBadrulAlomTawsyat)
 <a href="https://github.com/BadrulAlom?tab=followers"><img src="https://img.shields.io/github/followers/BadrulAlom?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+<p align="left"> <a href="https://github.com/BadrulAlom/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BadrulAlom" alt="BadrulAlom" /></a> </p>
 
 ### My Competitive Programing Stats
 <p>
