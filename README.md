@@ -40,22 +40,9 @@
  
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammadbadrul1234&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="muhammedbadrul1234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/muhammedbadrul1234?trk=profile-badge">Muhammad Badrul</a></div>
-              
 
 
 
-<img src="https://www.canva.com/design/DAE22-mX7Ss/Dwl2hTBTP6_wxcZfC8V5yQ/view?utm_content=DAE22-mX7Ss&utm_campaign=designshare&utm_medium=link&utm_source=viewer"/>
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE22-mX7Ss&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE22-mX7Ss&#x2F;view?utm_content=DAE22-mX7Ss&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Travel &amp; tour management System</a> by Badrul Rahman Khan
 
 
 
