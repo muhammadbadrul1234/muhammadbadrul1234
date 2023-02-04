@@ -42,7 +42,20 @@
 
 ![Badrul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammadbadrul1234&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
 
+### My Weekly Updates
+  
+<!--START_SECTION:waka-->
 
+```text
+Dart     3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.37 %
+C++      2 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.10 %
+Text     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+HTML     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+C        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Groovy   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
