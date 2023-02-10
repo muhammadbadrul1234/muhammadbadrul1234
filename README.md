@@ -11,7 +11,7 @@
 </p>
 <p align="left"> <a href="https://github.com/muhammadbadrul1234/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbadrul1234" alt="BadrulAlom" /></a> </p>
 
-### My Competitive Programing Stats
+### My Competitive Programing Status
 <p>
 
 <a href="https://codeforces.com/profile/Hellobadrul"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/Hellobadrul&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400" alt="Badrul's profile on Codeforces" title="Badrul's profile on Codeforces"></a>
