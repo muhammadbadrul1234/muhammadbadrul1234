@@ -43,7 +43,7 @@
 </p>
 
 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms etc
 - 📫 To reach me: bardulalomtawsyat@gmail.com
  
 
