@@ -55,7 +55,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   0 secs          ███████████████████░░░░░░   76.29 %
+Dart    7 mins          ███████████████████████▓░   94.85 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
