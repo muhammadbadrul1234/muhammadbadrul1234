@@ -55,11 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 43 mins   ██████████████████████▓░░   90.77 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
